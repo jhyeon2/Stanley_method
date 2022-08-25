@@ -1,3 +1,12 @@
-# Stanley_method : 기하학적 경로추종 방법 - 고정된 단일 호 형태의 경로를 따라 주행하는 차량
+# 자율주행 제어 Study
 
-# Stanley_method2 : 기하학적 경로추종 방법 - 랜덤 생성한 경로를 추종하는 차량
+# Stanley_method란?
+- Pure pursuit이 뒷바퀴를 reference point로 하는 기하학적 경로 추종 방법이었다면, 
+- Stanley method는 앞바퀴를 reference point로 하는 기하학적 경로 추종 방법이다.
+
+
+# Stanley method.py 
+- 정해진 단일 호 경로를 추종하는 차량 plot하기
+
+# Stanley method2.py 
+- 랜덤 생성한 경로를 추종하는 차량 plot하기
